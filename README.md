@@ -6,7 +6,7 @@
 [![Blog Badge](https://img.shields.io/badge/-TechBlog-purple?style=flat-square&logo=tistory&logoColor=white&link=https://hyun-jin.tistory.com/)](https://hyun-jin.tistory.com/)
  -->
  
-<h3>💻 Tech Stack</h3>
+## 💻 Tech Stack
 
 <br>
  
@@ -22,10 +22,15 @@
 
 <br>
 
+## 📋 Algorithm
+ 
+<br>
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zn9852)](https://solved.ac/zn9852/)
 
 <br>
  
+## 📊 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-C&show_icons=true)
  
 </div>
