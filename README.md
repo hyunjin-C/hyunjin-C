@@ -32,6 +32,8 @@ Soonchunhyang University
     - Pandas, Numpy, MatplotLib
 - Frontend
     - React, Next.js
+
+  <!--
 ## 🏃Activities
 - Google Machine Learning Bootcamp
     - 2024.07~
@@ -54,7 +56,7 @@ Soonchunhyang University
     - 2024.06.26~28
     - Particulate Matter Estimation at Virtual Stations Using Air Quality Collection IoT Devices
     - [19-590.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/a59927f1-539e-4948-a41c-d102eaeafe5a/292c5c3a-24e3-4ca2-bfab-c6b902c3371e/19-590.pdf)
-        
+      -->  
 
 ## 📈 GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin-C&theme=swift&show_icons=true)
